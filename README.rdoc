@@ -2,5 +2,5 @@
 
 This is first test app
 [*One Month Rails*](http://onemonthrails.com)
-
+This is interesting
 by [Amit Sarkar]
